@@ -1,0 +1,1 @@
+Rag based app with a streamlit ui and leveraging a gemini api which gives us the llm to summarize pdf documents and rag is built on top of langchain framework and  vector database is given using faiss
